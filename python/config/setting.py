@@ -1,0 +1,4 @@
+USER = 'hello'
+PASSWORD = 'WORLD'
+BIRTHYEAR = 1991
+
